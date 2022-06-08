@@ -1,0 +1,30 @@
+.navigation {
+    height: 12vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    // margin-bottom: 1rem;
+    background-color: rgb(4, 40, 87);
+  
+    .logo-container {
+      height: 100%;
+      width: 70px;
+      padding: 25px;
+    }
+  
+    .nav-links-container {
+      width: 50%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+  
+      .nav-link {
+        padding: 10px 15px;
+        padding-top: 20px;
+        cursor: pointer;
+        color: aliceblue;
+      }
+    }
+  }
+  
