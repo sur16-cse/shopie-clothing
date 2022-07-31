@@ -4,4 +4,8 @@
     grid-template-columns:repeat(4,1fr);
     column-gap: 10px;
     row-gap: 50px;
+        -ms-overflow-style: none;
+      ::-webkit-scrollbar {
+        display: none;
+      }
 }
