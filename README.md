@@ -7,7 +7,7 @@ This is full stack Ecommerce project in which firebase is uses as backened and r
 - Individual Category Page
 - Checkout Page
 
-### Preview:
+### Preview: https://shopie-clothing.netlify.app/
 ![Screenshot (147)](https://user-images.githubusercontent.com/67889306/182186758-f292d79c-c80f-4119-b760-a047f0b3558c.png)
 ![Screenshot (148)](https://user-images.githubusercontent.com/67889306/182186783-5ff0a564-d908-4a3b-88d0-c4db73b3fb2a.png)
 ![Screenshot (149)](https://user-images.githubusercontent.com/67889306/182186786-9eb3c280-6059-435f-854f-01f9b5ed912e.png)
