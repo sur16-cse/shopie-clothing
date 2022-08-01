@@ -1,6 +1,20 @@
-# Getting Started with Create React App
+# Shopie-Clothing
+This is full stack Ecommerce project in which firebase is uses as backened and reactjs as frontend . In this project 5 pages are build .
+#### Pages are:
+- Authentication Page
+- Directory Page
+- Category Preview Page
+- Individual Category Page
+- Checkout Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Preview:
+![Screenshot (147)](https://user-images.githubusercontent.com/67889306/182186758-f292d79c-c80f-4119-b760-a047f0b3558c.png)
+![Screenshot (148)](https://user-images.githubusercontent.com/67889306/182186783-5ff0a564-d908-4a3b-88d0-c4db73b3fb2a.png)
+![Screenshot (149)](https://user-images.githubusercontent.com/67889306/182186786-9eb3c280-6059-435f-854f-01f9b5ed912e.png)
+![Screenshot (150)](https://user-images.githubusercontent.com/67889306/182186844-6b06eb09-9679-463d-8f60-b88dd193ee97.png)
+![Screenshot (151)](https://user-images.githubusercontent.com/67889306/182186853-ebecddf0-f912-4b1c-8bd7-0b76701a21cd.png)
+![Screenshot (152)](https://user-images.githubusercontent.com/67889306/182186860-d2beabad-0787-40e0-9aff-78e4bfee7967.png)
+
 
 ## Available Scripts
 
