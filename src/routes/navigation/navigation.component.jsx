@@ -21,6 +21,7 @@ const Navigation=()=>{
                         SHOP
                     </Link>
                     {
+                    //when there is currentUser then render different link i.e, sign out when there is no user then sign in
                         currentUser?(
                             <span className='nav-link' onClick={signOutUser}>SIGN OUT</span>
                         ):(
