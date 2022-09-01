@@ -18,6 +18,7 @@ export const UserProvider=({children})=>{
     //whenever auth changes setcurrent user update  for sign in or sign out this useeffect managae both 
     useEffect(()=>{
         const unsubscribe=onAuthStateChangedListener((user)=>{
+            //if new user then create user document for new user otherwise simply set user
             if(user)
                 createUserDocumentFromAuth(user);
             console.log(user)
