@@ -30,19 +30,4 @@ export const NavLinks=styled(Link)`
         cursor: pointer;
         color: aliceblue;
 `
-// .navigation {
-    
-  
-//     .logo-container {
-     
-//     }
-  
-//     .nav-links-container {
-      
-  
-//       .nav-link {
-       
-//       }
-//     }
-//   }
   
